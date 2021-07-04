@@ -11,6 +11,7 @@ const StyledFile = styled.div`
   }
 `;
 
+
 const Filecomp = ({name}) => {
     return (
         <StyledFile>
